@@ -1,0 +1,8 @@
+Unzip the zip file and you can then install the program on a windows pc.
+
+Double click the setup.exe
+
+The pc will say that the program isn't verified, but if you hit more information
+then you will be able to click run anyway and allow this program to install on 
+your pc. You will be asked 1 more time to click more information then the program will run and you will
+be able to use the program.
